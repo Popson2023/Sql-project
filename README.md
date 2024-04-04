@@ -28,7 +28,8 @@ This project is about sales.
 
 ## Visualization using Tableau
 ![Picture6](https://github.com/Popson2023/Sql-project/assets/141573774/eae69ba7-6c31-4bf6-98c5-889c8e7f8dff)
-![Picture7](https://github.com/Popson2023/Sql-project/assets/141573774/3c6082b4-d6ff-4c22-8bf3-4e41e44cec46)
+![Picture7](https://github.com/Popson2023/Sql-project/assets/141573774/753ecb62-92c5-4a32-86bd-7875b9a4f576)
+
 
 ### Insights and Recommendations 
 
